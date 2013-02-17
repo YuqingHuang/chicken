@@ -1,0 +1,284 @@
+TBBFTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/Info.plist BBFTests/BBFTests-Info.plist
+cProcessPCH /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth BBF/BBF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o /Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests normal i386
+cGenerateDSYMFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests
+cCopyStringsFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/en.lproj/InfoPlist.strings BBFTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution "Run Script" /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh
+cTouch /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000507153C10000000000030F60
+t1349604289
+s200544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c00000000507153D70000000000000E25
+t1349604311
+s3621
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c00000000507153D70000000000000701
+t1349604311
+s1793
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c00000000507153D7000000000000084C
+t1349604311
+s2124
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c00000000507153D700000000000019FB
+t1349604311
+s6651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c00000000507153D70000000000000875
+t1349604311
+s2165
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c00000000507153D70000000000007F41
+t1349604311
+s32577
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c00000000507153D70000000000000947
+t1349604311
+s2375
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c00000000507153D70000000000000800
+t1349604311
+s2048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c00000000507153D7000000000000079D
+t1349604311
+s1949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c00000000507153D70000000000000A6C
+t1349604311
+s2668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c00000000507153D70000000000000AD1
+t1349604311
+s2769
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c00000000507153D70000000000000A79
+t1349604311
+s2681
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c00000000507153D70000000000000CCF
+t1349604311
+s3279
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c00000000507153D700000000000007E1
+t1349604311
+s2017
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c00000000507153D700000000000008A5
+t1349604311
+s2213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c00000000507153D70000000000000C37
+t1349604311
+s3127
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000507153E100000000003DCEF0
+t1349604321
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000507153E000000000000015F7
+t1349604320
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000507153E60000000000000E8D
+t1349604326
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000507153E80000000000AB3D60
+t1349604328
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000507153F40000000000001B54
+t1349604340
+s6996
+
+N/Users/twer/Documents/iOS-/BBF/BBF/BBF-Prefix.pch
+c0000000050D877120000000000000135
+t1356363538
+s309
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.h
+c0000000050D8771200000000000000DC
+t1356363538
+s220
+
+N/Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m
+c0000000050D9443A00000000000001AE
+t1356416058
+s430
+
+N/Users/twer/Documents/iOS-/BBF/BBFTests/en.lproj/InfoPlist.strings
+c0000000050D87712000000000000002D
+t1356363538
+s45
+
+N/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.LinkFileList
+c0000000050D948540000000000000075
+t1356417108
+s117
+
+N/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o
+t2
+s0
+
+N/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh
+c0000000050D948540000000000000056
+t1356417108
+s86
+
+N/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest
+t2
+s0
+
+N/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM
+t2
+s0
+
+N/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests
+t2
+s0
+
+N/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/Info.plist
+t2
+s0
+
+N/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth
+t2
+s0
+
+NBBFTests/BBFTests-Info.plist
+c0000000050D8771200000000000002AD
+t1356363538
+s685
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2afe1bd47f89b641^c0201dd47f89b641^---0#1#0#--18"Check dependencies36"3DEDE09E-42C9-4313-9A71-4CDA606AAABF-
+
+CCompileC build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o /Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378109908.340277
+e378109908.432482
+r1
+xCompileC
+xbuild/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o
+x/Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m573e57d47f89b641^ccb76ed47f89b641^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m0000000000000000^3919"CompileC build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o BBFTests/BBFTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/twer/Documents/iOS-/BBF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-generated-files.hmap -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-own-target-headers.hmap -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-all-target-headers.hmap -iquote /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-project-headers.hmap -I/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources/i386 -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources -F/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch -MMD -MT dependencies -MF /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.d --serialize-diagnostics /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.dia -c /Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests.m -o /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.o36"5DA17336-126E-4798-B549-516D0968068D-
+
+CCopyStringsFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/en.lproj/InfoPlist.strings BBFTests/en.lproj/InfoPlist.strings
+s378109908.488604
+e378109908.491693
+r1
+xCopyStringsFile
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/en.lproj/InfoPlist.strings
+xBBFTests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy BBFTests/en.lproj/InfoPlist.strings232d7dd47f89b641^ecdf7dd47f89b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/twer/Documents/iOS-/BBF/BBFTests/en.lproj/InfoPlist.strings0000000000000000^876"CopyStringsFile build/Release-iphonesimulator/BBFTests.octest/en.lproj/InfoPlist.strings BBFTests/en.lproj/InfoPlist.strings    cd /Users/twer/Documents/iOS-/BBF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/en.lproj -- BBFTests/en.lproj/InfoPlist.strings36"0EFE8467-36FF-425F-9FAC-EF4A92089318-
+
+CGenerateDSYMFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests
+s378109908.467126
+e378109908.479562
+r1
+xGenerateDSYMFile
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generating /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM29b177d47f89b641^d6c47ad47f89b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM000000000080d041^930"GenerateDSYMFile build/Release-iphonesimulator/BBFTests.octest.dSYM build/Release-iphonesimulator/BBFTests.octest/BBFTests    cd /Users/twer/Documents/iOS-/BBF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests -o /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest.dSYM36"BABC216E-B376-4AF8-8E73-D52F03C8525C-
+
+CLd /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests normal i386
+s378109908.440248
+e378109908.460621
+r1
+xLd
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests9ecf70d47f89b641^18ed75d47f89b641^---0#0#0#--1736"Ld build/Release-iphonesimulator/BBFTests.octest/BBFTests normal i386    cd /Users/twer/Documents/iOS-/BBF    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator -F/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.LinkFileList -bundle_loader /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBF.app/BBF -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/BBFTests36"54D53E95-0C43-40F9-8A5E-92E7AA06B06C-
+
+CPhaseScriptExecution "Run Script" /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh
+s378109908.499512
+e378109908.668456
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh
+o/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:266: note: Started tests for architectures 'i386'
+o/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:273: note: Running tests for architecture 'i386' (GC OFF)
+o2012-12-25 14:31:48.662 BBF[13829:11603] Unknown Device Type. Using UIUserInterfaceIdiomPad based on screen size
+oTerminating since there is no workspace.
+o/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:334: note: Passed tests for architecture 'i386' (GC OFF)
+o/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:345: note: Completed tests for architectures 'i386'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'828c80d47f89b641^681fabd47f89b641^1(29%IDEActivityLogUnitTestSection2@3#35"com.apple.dt.IDE.UnitTestLogSection47"Run unit tests for architecture 'i386' (GC OFF)41f385d47f89b641^2bfbaad47f89b641^-425"/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:273: note: Running tests for architecture 'i386' (GC OFF)2012-12-25 14:31:48.662 BBF[13829:11603] Unknown Device Type. Using UIUserInterfaceIdiomPad based on screen sizeTerminating since there is no workspace./Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:334: note: Passed tests for architecture 'i386' (GC OFF)-0#0#0#---36"AAE2CD42-FF36-4FD0-8D5F-5AACBCDBD301---134"/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:334: note: Passed tests for architecture 'i386' (GC OFF)--683"/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:266: note: Started tests for architectures 'i386'/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:273: note: Running tests for architecture 'i386' (GC OFF)2012-12-25 14:31:48.662 BBF[13829:11603] Unknown Device Type. Using UIUserInterfaceIdiomPad based on screen sizeTerminating since there is no workspace./Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:334: note: Passed tests for architecture 'i386' (GC OFF)/Applications/Xcode.app/Contents/Developer/Tools/RunPlatformUnitTests.include:345: note: Completed tests for architectures 'i386'-0#0#0#--20266"PhaseScriptExecution "Run Script" build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh    cd /Users/twer/Documents/iOS-/BBF    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER twer    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/twer/Documents/iOS-/BBF/build    setenv BUILD_ROOT /Users/twer/Documents/iOS-/BBF/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator    setenv BUNDLE_LOADER /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBF.app/BBF    setenv CACHE_ROOT /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_CXX_LANGUAGE_STANDARD gnu++0x    setenv CLANG_CXX_LIBRARY libc++    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator    setenv CONTENTS_FOLDER_PATH BBFTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH BBFTests.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/BBF.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME BBFTests.octest.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH BBFTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH BBFTests.octest    setenv EXECUTABLE_NAME BBFTests    setenv EXECUTABLE_PATH BBFTests.octest/BBFTests    setenv FILE_LIST /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH BBFTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks\" \"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME BBFTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER BBF/BBF-Prefix.pch    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/include\"  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE BBFTests/BBFTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH BBFTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH BBFTests.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/BBF.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER twer    setenv INSTALL_ROOT /tmp/BBF.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH BBFTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal/i386/BBFTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH BBFTests.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11G63b    setenv MAC_OS_X_VERSION_ACTUAL 1075    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0705    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Objects-normal    setenv OBJROOT /Users/twer/Documents/iOS-/BBF/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_CPLUSPLUSFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH BBFTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/PkgInfo    setenv PKGINFO_PATH BBFTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH BBFTests.octest/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH BBFTests.octest/PrivateHeaders    setenv PRODUCT_NAME BBFTests    setenv PRODUCT_SETTINGS_PATH /Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT BBF    setenv PROJECT_DERIVED_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/DerivedSources    setenv PROJECT_DIR /Users/twer/Documents/iOS-/BBF    setenv PROJECT_FILE_PATH /Users/twer/Documents/iOS-/BBF/BBF.xcodeproj    setenv PROJECT_NAME BBF    setenv PROJECT_TEMP_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build    setenv PUBLIC_HEADERS_FOLDER_PATH BBFTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH BBFTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH BBFTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH BBFTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/twer/Documents/iOS-/BBF    setenv SRCROOT /Users/twer/Documents/iOS-/BBF    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/twer/Documents/iOS-/BBF/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME BBFTests    setenv TARGET_BUILD_DIR /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator    setenv TARGET_NAME BBFTests    setenv TARGET_TEMP_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build    setenv TEMP_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build    setenv TEMP_FILES_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build    setenv TEMP_FILE_DIR /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build    setenv TEMP_ROOT /Users/twer/Documents/iOS-/BBF/build    setenv TEST_AFTER_BUILD YES    setenv TEST_HOST /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBF.app/BBF    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH BBFTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER twer    setenv USER_APPS_DIR /Users/twer/Applications    setenv USER_LIBRARY_DIR /Users/twer/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH BBFTests.octest/version.plist    setenv VERSION_INFO_BUILDER twer    setenv VERSION_INFO_FILE BBFTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:BBFTests  PROJECT:BBF-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME BBFTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G1004    setenv XCODE_VERSION_ACTUAL 0451    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/Script-496D98FC1688AE9200FFCA65.sh36"AFADCD60-809B-41E4-B630-015F01945A40-
+
+CProcessInfoPlistFile /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/Info.plist BBFTests/BBFTests-Info.plist
+s378109908.117203
+e378109908.120542
+r1
+xProcessInfoPlistFile
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/Info.plist
+xBBFTests/BBFTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process BBFTests/BBFTests-Info.plist01151ed47f89b641^6edc1ed47f89b641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/twer/Documents/iOS-/BBF/BBFTests/BBFTests-Info.plist0000000000000000^854"ProcessInfoPlistFile build/Release-iphonesimulator/BBFTests.octest/Info.plist BBFTests/BBFTests-Info.plist    cd /Users/twer/Documents/iOS-/BBF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    builtin-infoPlistUtility BBFTests/BBFTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest/Info.plist36"05D3D157-77F7-471F-8966-252B547F2A62-
+
+CProcessPCH /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth BBF/BBF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378109908.129541
+e378109908.332549
+r1
+xProcessPCH
+x/var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth
+xBBF/BBF-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile BBF/BBF-Prefix.pch8a5b21d47f89b641^532255d47f89b641^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/twer/Documents/iOS-/BBF/BBF/BBF-Prefix.pch0000000000000000^3939"ProcessPCH /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth BBF/BBF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/twer/Documents/iOS-/BBF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-generated-files.hmap -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-own-target-headers.hmap -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-all-target-headers.hmap -iquote /Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/BBFTests-project-headers.hmap -I/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources/i386 -I/Users/twer/Documents/iOS-/BBF/build/BBF.build/Release-iphonesimulator/BBFTests.build/DerivedSources -F/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.dia -c /Users/twer/Documents/iOS-/BBF/BBF/BBF-Prefix.pch -o /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/5n/sx5kxtk1577808vx__b2xcpc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BBF-Prefix-gnfsmiburrvwwjeokjzgtpbfyyvq/BBF-Prefix.pch.d36"E88C207F-D1A3-4442-B09B-404B6E2CF1A4-
+
+CTouch /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest
+s378109908.676768
+e378109908.680705
+r1
+xTouch
+x/Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Touch /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octestc555add47f89b641^4643aed47f89b641^---0#0#0#--687"Touch build/Release-iphonesimulator/BBFTests.octest    cd /Users/twer/Documents/iOS-/BBF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/twer/.rvm/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334/bin:/Users/twer/.rvm/gems/ruby-1.8.7-p334@global/bin:/Users/twer/.rvm/rubies/ruby-1.8.7-p334/bin:/Users/twer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/twer/.rvm/bin:/Users/twer/Documents/gradle-1.1/bin:/usr/local/mysql/bin"    /usr/bin/touch -c /Users/twer/Documents/iOS-/BBF/build/Release-iphonesimulator/BBFTests.octest36"6AB7C9EC-9823-4F31-82C8-2EF077337B17-
+

@@ -1,0 +1,2 @@
+
+OTHER_LDFLAGS = $(inherited) $(XCODE_TEST_LDFLAGS)
